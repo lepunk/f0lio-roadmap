@@ -1,6 +1,6 @@
 # Changelog
 
-## Version 1.0.4 for iOS
+## Version 1.0.4 for iOS (2018-02-18)
 * Fixed issue with top navigation bar being distorted after visiting sub views
 * Fixed layout issues on small devices (iPhone SE, 5, 5s): wave view overflowing to side menu, distorted layouts
 * Fixed app crashing after deleting all entries in the portfolio
