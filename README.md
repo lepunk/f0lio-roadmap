@@ -6,8 +6,9 @@
 
 ## Version 1.0.6 for iOS (2018-02-25)
 * Redesigned Market Overview activity
-* Pro subscription screen
 * Redesigned donate screen
+* Redesigned confirmation / loading popups
+* New Pro subscription screen
 * Fixed blurry icons on edit / delete buttons in Coin details view
 * Refactored a bunch of code, (hopefully) leading to less crashes
 * Coin screen now defaults to weekly graph
