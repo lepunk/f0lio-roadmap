@@ -1,5 +1,20 @@
 # Changelog
 
+## Version 1.0.7 for iOS (2018-02-25)
+* Fixes bug where you weren't able to change the colors of the default Coin cards
+* Fixes issue where Coin details view did not update text color when going from light color to dark
+
+## Version 1.0.6 for iOS (2018-02-25)
+* Redesigned Market Overview activity
+* Pro subscription screen
+* Redesigned donate screen
+* Fixed blurry icons on edit / delete buttons in Coin details view
+* Refactored a bunch of code, (hopefully) leading to less crashes
+* Coin screen now defaults to weekly graph
+* Fixed layout issues on iPhone 5, 5s, SE, 5C
+* Support for European numeric input
+* Push notification support
+
 ## Version 1.0.4 for iOS (2018-02-18)
 * Fixed issue with top navigation bar being distorted after visiting sub views
 * Fixed layout issues on small devices (iPhone SE, 5, 5s): wave view overflowing to side menu, distorted layouts
