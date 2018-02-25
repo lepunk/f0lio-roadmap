@@ -2,7 +2,7 @@
 
 To view our public roadmap for both iOS and Android [click here](https://github.com/lepunk/f0lio-roadmap/projects)
 
-To report issues / request features: [click here](https://github.com/lepunk/f0lio-roadmap/issues)
+To report issues / request features: [click here](https://github.com/lepunk/f0lio-roadmap/issues) or [join our Telegram group](http://t.me/f0lio)
 
 # Changelog
 
