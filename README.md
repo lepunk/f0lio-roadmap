@@ -1,3 +1,9 @@
+# Roadmap
+
+To view our public roadmap for both iOS and Android [click here](https://github.com/lepunk/f0lio-roadmap/projects)
+
+To report issues / request features: [click here](https://github.com/lepunk/f0lio-roadmap/issues)
+
 # Changelog
 
 ## Version 1.0.7 for iOS (2018-02-25)
